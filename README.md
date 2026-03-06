@@ -1,6 +1,5 @@
 # Multi-Physics Modelling of Sn-Modified Al-Zn-Mg Sacrificial Anodes
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
 ## Overview
@@ -74,6 +73,6 @@ python uncertainty_analysis.py
 If you use this code in your research, please cite:
 > *Research Team (2026). Predictive Multi-Physics Modelling of Al-Zn-Mg-Sn Sacrificial Anodes: A Data-Driven Microstructure-to-Performance Framework. [Journal Name/DOI pending]*
 
-## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+If you use this code in your research, please cite:
+> *Research Team (2026). Predictive Multi-Physics Modelling of Al-Zn-Mg-Sn Sacrificial Anodes: A Data-Driven Microstructure-to-Performance Framework. [Journal Name/DOI pending]*
