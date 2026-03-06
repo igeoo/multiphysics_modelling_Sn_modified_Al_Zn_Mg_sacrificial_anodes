@@ -1,3 +1,19 @@
+"""
+Parameter Uncertainty Quantification and Covariance Analysis
+Bootstrap resampling and sensitivity analysis for model parameters
+
+This supplementary code performs:
+- Bootstrap parameter estimation (1000 iterations)
+- Covariance matrix calculation
+- Confidence interval determination
+- Sensitivity analysis
+- Correlation structure visualization
+
+Author: Research Team
+Date: March 2026
+Version: 1.1.0 (Maintenance Update)
+"""
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt

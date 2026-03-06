@@ -1,3 +1,19 @@
+"""
+Multi-Physics Modelling of Sn-Modified Al-Zn-Mg Sacrificial Anodes
+Complete Implementation Code
+
+This module implements the coupled precipitation-electrochemistry model
+described in the manuscript, including:
+- JMAK precipitation kinetics
+- Butler-Volmer electrochemical kinetics
+- Microstructure-electrochemistry coupling
+- Parameter estimation and uncertainty quantification
+- Service life prediction
+
+Author: Research Team
+Date: March 2026
+Version: 1.1.0 (Maintenance Update)
+"""
 import numpy as np
 import pandas as pd
 from scipy.optimize import least_squares
